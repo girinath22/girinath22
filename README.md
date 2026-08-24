@@ -75,6 +75,8 @@ React + Vite app where you can browse movies, stack a wishlist, run a fake buy/r
 
 `React` `Vite` `React Router` `Context API` `localStorage`
 
+[![Live](https://img.shields.io/badge/LIVE%20DEMO-thiraipadam.vercel.app-39FF14?style=flat-square&logo=vercel&logoColor=black)](https://thiraipadam.vercel.app/)
+
 </td>
 <td width="50%" valign="top">
 
@@ -86,6 +88,8 @@ Discover short films, search by genre + language, watch trailers embedded straig
 **the flex:** live-connected to **YouTube Data API v3**, pulling real search results — not some static hardcoded list. 💳 checkout is a demo flow, no real money moving.
 
 `React` `Vite` `React Router` `Context API` `YouTube API v3` `AOS`
+
+[![Live](https://img.shields.io/badge/LIVE%20DEMO-genzpasanga.vercel.app-39FF14?style=flat-square&logo=vercel&logoColor=black)](https://genzpasanga.vercel.app/)
 
 </td>
 </tr>
